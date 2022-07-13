@@ -1,0 +1,22 @@
+[
+  {
+    "isloanword": true,
+    "_id": "615f50d5d3981e0d238f6d13",
+    "word": "السلام",
+    "lookup": "السلام",
+    "pronunciation": "اَلسَلام",
+    "language": "عربی",
+    "category": "فرهنگی",
+    "description": "واژه عربی",
+    "nativewords": [
+      { "value": "614d31a2cf0aeb3c430ae73f", "label": "درود بر شما" },
+      { "value": "5f9da049cd01ff2c80c34528", "label": "درود" }
+    ],
+    "createdBy": "5f7002b3d5256f15bca6e414",
+    "createdAt": "2021-10-07T19:56:05.821Z",
+    "updatedAt": "2021-10-08T19:16:14.791Z",
+    "alphabet": "الف",
+    "__v": 0,
+    "updatedBy": "5f7002b3d5256f15bca6e414"
+  }
+]

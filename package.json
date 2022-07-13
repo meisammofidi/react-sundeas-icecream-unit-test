@@ -1,14 +1,21 @@
 {
-  "name": "react-select-modal",
+  "name": "react-sundeas-icecream-unit-test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+    "axios": "^0.22.0",
+    "bootstrap": "^4.6.0",
+    "eslint-plugin-jest-dom": "^4.0.2",
+    "eslint-plugin-testing-library": "^5.5.1",
+    "msw": "^0.44.0",
     "react": "^17.0.2",
+    "react-bootstrap": "^1.6.4",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
+    "react-select": "^5.1.0",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
@@ -16,12 +23,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-  },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
   },
   "browserslist": {
     "production": [
