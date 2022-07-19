@@ -25,6 +25,6 @@ test('displays image for each topping option from server', async () => {
     // confirm alt text of images
     const altText = scoopImages.map(element => element.alt)
     // when working with array and object using toEqual()
-    expect(altText).toEqual(['cherries topping', 'M&Ms topping', 'Hot fudge topping'])
+    expect(altText).toEqual(['Cherries topping', 'M&Ms topping', 'Hot fudge topping'])
 
 })
